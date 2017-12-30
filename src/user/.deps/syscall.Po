@@ -1,0 +1,9 @@
+syscall.o: syscall.c /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint-gcc.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/syscall.h
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint-gcc.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/syscall.h:

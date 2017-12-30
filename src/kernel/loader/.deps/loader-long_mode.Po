@@ -1,0 +1,10 @@
+loader-long_mode.o: long_mode.S \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/misc/gdt.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/layout.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/mmu.h
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/misc/gdt.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/layout.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/mmu.h:

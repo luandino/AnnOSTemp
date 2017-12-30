@@ -1,0 +1,10 @@
+libstd64_a-stdlib.o: stdlib.c \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/stdlib.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/string.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/stdlib.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/string.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h:

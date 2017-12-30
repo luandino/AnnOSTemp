@@ -1,0 +1,16 @@
+read_unmap.o: read_unmap.c \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/user/syscall.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint-gcc.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/string.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/user/syscall.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint-gcc.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/string.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h:

@@ -1,0 +1,4 @@
+bootloader-boot.o: boot.S \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/misc/gdt.h
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/misc/gdt.h:

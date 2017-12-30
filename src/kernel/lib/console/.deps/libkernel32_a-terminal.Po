@@ -1,0 +1,28 @@
+console/libkernel32_a-terminal.o: console/terminal.c \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/string.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/assert.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/layout.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/mmu.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint-gcc.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/console/terminal.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdarg.h
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/string.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/assert.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/layout.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/mmu.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint-gcc.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/console/terminal.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdarg.h:

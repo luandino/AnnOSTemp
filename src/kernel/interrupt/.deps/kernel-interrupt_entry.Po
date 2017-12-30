@@ -1,0 +1,22 @@
+interrupt/kernel-interrupt_entry.o: interrupt/interrupt_entry.S \
+ /usr/include/stdc-predef.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/layout.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/mmu.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/misc/gdt.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/interrupt/apic.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/interrupt/interrupt.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/syscall.h
+
+/usr/include/stdc-predef.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/layout.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/mmu.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/misc/gdt.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/interrupt/apic.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/interrupt/interrupt.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/syscall.h:

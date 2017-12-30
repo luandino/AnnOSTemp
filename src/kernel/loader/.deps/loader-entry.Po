@@ -1,0 +1,7 @@
+loader-entry.o: entry.S \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/layout.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/mmu.h
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/layout.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/mmu.h:

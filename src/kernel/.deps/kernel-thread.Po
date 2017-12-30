@@ -1,0 +1,52 @@
+kernel-thread.o: thread.c \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/assert.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/string.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/asm.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint-gcc.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/thread.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/task.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdbool.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/queue.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/mmu.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/misc/gdt.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/misc/util.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/map.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/layout.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/console/terminal.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdarg.h
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/assert.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/string.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/asm.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint-gcc.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/thread.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/task.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdbool.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/stdlib/queue.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/mmu.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/misc/gdt.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/misc/util.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/map.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/memory/layout.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/console/terminal.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdarg.h:

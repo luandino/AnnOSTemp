@@ -1,0 +1,16 @@
+../lib/disk/bootloader-ata.o: ../lib/disk/ata.c \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/asm.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdint-gcc.h \
+ /home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/disk/ata.h \
+ /usr/lib/gcc/x86_64-linux-gnu/6/include/stdbool.h
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/asm.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdint-gcc.h:
+
+/home/luciano/eclipse-workspace/AnnOSTemp/src/kernel/lib/disk/ata.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/6/include/stdbool.h:
